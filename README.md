@@ -105,5 +105,5 @@ python script.py
 
 ## 👨‍💻 Author
 
-Developed as part of a real-world automation workflow for RIPS data processing.
+Luis Alejandro Machado.
 
